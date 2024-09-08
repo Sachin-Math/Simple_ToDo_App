@@ -1,0 +1,22 @@
+.mainHeading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+position: absolute;
+top:20%;
+left:30%;
+color: black;
+}
+.inputMain{
+    position: absolute;
+    top: 30%;
+    left:33%;
+}
+.btn2{
+    position: absolute;
+    color: brown;
+}
+.items{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+
+}
